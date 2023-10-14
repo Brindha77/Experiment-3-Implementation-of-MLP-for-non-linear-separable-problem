@@ -42,6 +42,7 @@ Step 5: Test for the XOR patterns.
 
 ## PROGRAM:
 Developed by : R.Brindha
+
 Reg No: 212222230023
 ```
 import numpy as np
